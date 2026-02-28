@@ -54,7 +54,7 @@ Two-page interactive dashboard:
 ![Executive Overview](dashboard/executive_overview.png)
 
 **Airline Performance Analysis**
-![Airline Analysis](dashboard/airline_analysis.png)
+![Airline Performance Analysis](dashboard/airline_performance_analysis.png)
 
 ## Repository Structure
 - `/notebooks` → Jupyter notebook (analysis + modeling)
